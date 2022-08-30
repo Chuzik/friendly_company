@@ -1,0 +1,10 @@
+C:\Users\Guzel\source\repos\Practica_2kyrs\Practica_2kyrs\bin\Debug\Practica_2kyrs.exe.config
+C:\Users\Guzel\source\repos\Practica_2kyrs\Practica_2kyrs\bin\Debug\Practica_2kyrs.exe
+C:\Users\Guzel\source\repos\Practica_2kyrs\Practica_2kyrs\bin\Debug\Practica_2kyrs.pdb
+C:\Users\Guzel\source\repos\Practica_2kyrs\Practica_2kyrs\obj\Debug\Practica_2kyrs.Form1.resources
+C:\Users\Guzel\source\repos\Practica_2kyrs\Practica_2kyrs\obj\Debug\Practica_2kyrs.Properties.Resources.resources
+C:\Users\Guzel\source\repos\Practica_2kyrs\Practica_2kyrs\obj\Debug\Practica_2kyrs.csproj.GenerateResource.cache
+C:\Users\Guzel\source\repos\Practica_2kyrs\Practica_2kyrs\obj\Debug\Practica_2kyrs.exe
+C:\Users\Guzel\source\repos\Practica_2kyrs\Practica_2kyrs\obj\Debug\Practica_2kyrs.pdb
+C:\Users\Guzel\source\repos\Practica_2kyrs\Practica_2kyrs\obj\Debug\Practica_2kyrs.csproj.AssemblyReference.cache
+C:\Users\Guzel\source\repos\Practica_2kyrs\Practica_2kyrs\obj\Debug\Practica_2kyrs.csproj.CoreCompileInputs.cache
